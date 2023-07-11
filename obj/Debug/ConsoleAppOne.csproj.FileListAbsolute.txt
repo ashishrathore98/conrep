@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe.config
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.exe
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\bin\Debug\ConsoleAppOne.pdb
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.exe
+E:\Simplilearn course\Day2\ConsoleAppOne\ConsoleAppOne\obj\Debug\ConsoleAppOne.pdb
